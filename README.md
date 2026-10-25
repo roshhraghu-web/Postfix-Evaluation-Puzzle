@@ -1,4 +1,4 @@
-Postfix Evaluation Puzzle
+Postfix Evaluation Puzzle...
     A Java Swing desktop game that challenges players to evaluate postfix expressions using a stack.
     Features
     Minimal black-and-white graphical interface
